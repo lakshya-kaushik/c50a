@@ -1,0 +1,32 @@
+h1 {
+    color: deeppink;
+}
+
+* {
+    border: #ea00ff;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.side_description{
+    background-color:rgb(128, 73, 0);
+
+}
+
+.grid{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.socal{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: flex-end;
+}
